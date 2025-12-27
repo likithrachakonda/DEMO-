@@ -40,3 +40,4 @@ if __name__ == "__main__":
 			sys.exit(1)
 		print(f"{v} is even" if is_even(v) else f"{v} is odd")
 
+# End of file
